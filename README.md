@@ -2,8 +2,7 @@
 
 A proof-of-concept documentation site for the Winsupply Marketing IT UX Design System, auto-generated from Figma using the Figma REST API and a Python static site generator — no build pipeline, no framework.
 
-**Live site:** https://yagozardo.github.io/mkit-design-system/
-
+**Live site:** [https://mrconn-mrk.github.io/ecomm-design-system/](https://mrconn-mrk.github.io/ecomm-design-system/)
 ---
 
 ## Background
